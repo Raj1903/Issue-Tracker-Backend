@@ -1,0 +1,26 @@
+{
+  "name": "backend_issue_tracker",
+  "version": "1.0.0",
+  "description": "This is the backend for the issueTracker with API Documentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pulkit Raj <contact@pulkitraj1903@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "generate-password": "^1.5.1",
+    "helmet": "^3.23.3",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "mongoose": "^5.9.25",
+    "nodemailer": "^6.4.10",
+    "pino": "^6.4.1",
+    "shortid": "^2.2.15",
+    "socket.io": "^2.3.0"
+  }
+}
