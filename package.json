@@ -18,7 +18,7 @@
     "moment": "^2.27.0",
     "moment-timezone": "^0.5.31",
     "mongoose": "^5.9.25",
-    "nodemailer": "^6.4.10",
+    "nodemailer": "^6.4.16",
     "pino": "^6.4.1",
     "shortid": "^2.2.15",
     "socket.io": "^2.3.0"
